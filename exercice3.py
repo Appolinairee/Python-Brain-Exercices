@@ -8,7 +8,7 @@ def isPalindrome(t):
     return False
    
 
-text = "non" 
+text = "toot" 
 if isPalindrome(text) :
     print(f"{text} est un palindrome")
 else:
